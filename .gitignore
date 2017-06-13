@@ -1,0 +1,12 @@
+# ignore file
+*.class
+
+#ignore folder
+.foldername/subfolder/
+
+#ignore folder
+foldername/
+
+# ! note ignore
+!filename
+
