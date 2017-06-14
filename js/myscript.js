@@ -6,6 +6,6 @@ function develop2() {
 	return 0;
 }
 
-function addfriend(phone) {
+function addfriend(id) {
 	return 0;
 }
